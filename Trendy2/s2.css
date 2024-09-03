@@ -1,0 +1,58 @@
+nav{
+    margin-top: 2vh;
+    background-color: transparent;
+    color:white;
+    text-align: right;
+}
+
+
+a{
+    padding: 1vh;
+    color:white;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    background-color: white;
+}
+body{
+    background-image: url('c1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+div{
+    border: 2px solid white;
+    border-radius: 5%;
+    margin: 0px 35%;
+    margin-top: 5%;
+    padding: 2%;
+    text-align:center;
+    display: inline-block;
+    /* text-align:center; */
+    justify-content: center;
+    /* float: inline-start; */
+    backdrop-filter: blur(5px);
+    padding: 3%;
+
+}
+input{
+    background-color: black;
+    /* background: transparent; */
+    color:white;
+    border:none;
+    border-radius: 2%;
+    text-decoration:None;
+    padding: 1vh;
+    margin: 2vh;
+}
+label{
+    padding-bottom: 3vh;
+}
+p{
+    font-weight: 800;
+    font-size:x-large;
+    text-align: center;
+    justify-content: center;
+}
